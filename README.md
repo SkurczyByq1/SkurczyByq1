@@ -1,6 +1,5 @@
 # About me
-Young frontend enjoyer (beginner), IT fanatic in general from Poland. <br/>
-Maybe backend in the future.
+Frontend enjoyer (beginner), IT fanatic in general from Poland. <br/>
 
 ## Programming languages
 - HTML
